@@ -9,6 +9,9 @@ export const styles = StyleSheet.create({
         fontSize: "90px",
 
     },
-
+    Image: {
+        minWidth: 60,
+        minHeight: 500
+    }
 
 });
