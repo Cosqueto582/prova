@@ -11,7 +11,7 @@ export const styles = StyleSheet.create({
     },
     Image: {
         minWidth: 60,
-        minHeight: 500
+        minHeight: 400
     }
 
 });
